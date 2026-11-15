@@ -14,6 +14,8 @@ Oppstod fra en diskusjon om hvorvidt samene stammer fra inuittene (de gjør ikke
 - **Spredning ut av Afrika:** verdensomspennende ekspansjon for 60 000–40 000 år siden. Kilde: Bergström et al. 2021, *Nature* – https://www.nature.com/articles/s41586-021-03244-5
 - **Neandertalere:** ~1,8–2,6 % neandertaler-DNA hos folk utenfor Afrika (Prüfer et al. 2017, *Science* – https://doi.org/10.1126/science.aao1887), fra én felles blanding for ca. 45 000–49 000 år siden (Sümer et al. 2024, *Nature* – https://www.nature.com/articles/s41586-024-08420-x). Neandertalerne forsvant for ~41 000–39 000 år siden (Higham et al. 2014, *Nature* – https://www.nature.com/articles/nature13621).
 
+- **Fra Lena til Karelen:** det sibirske innslaget (Yakutia_LNBA) spredte seg vestover fra Lena-elva ~4000 år siden, via Altaj–Sajan og Seima-Turbino-nettverket i Vest-Sibir, og nådde Karelen ~3500 år siden. Knyttet til spredningen av uralske språk; urhjemmet er omdiskutert. Kilde: Zeng et al. 2025, *Nature* – https://www.nature.com/articles/s41586-025-09189-3
+- **Uralske språk:** rask vestover-spredning ~4200–3900 år siden, først til Midt-Volga, trolig langs Seima-Turbino. Kilde: Grünthal et al. 2022, *Diachronica* – https://doi.org/10.1075/dia.20038.gru
 - **De første skandinavene:** Skandinavia ble befolket sist i Europa etter siste istid, langs to ruter – fra sør og fra nordøst langs norskekysten. Kilde: Günther et al. 2018, *PLOS Biology* – https://doi.org/10.1371/journal.pbio.2003703
 - **Samiske språk:** spredte seg til Lappland mellom de siste århundrene f.Kr. og ca. 500 e.Kr. (Midt-Skandinavia nådd senest 500–600 e.Kr.), og erstattet utdødde «paleo-lappiske» språk. Kilde: Aikio 2012, i *A Linguistic Map of Prehistoric Northern Europe* (SUST 266), s. 63–117 – https://web.archive.org/web/2020/https://www.sgr.fi/sust/sust266/sust266_aikio.pdf (arkivert kopi; originalen på sgr.fi er død)
 - **Samer (uralsk språk):** sibirsk genetisk innslag ankom Nord-Europa for **minst 3500 år siden**, knyttet til uralsk-språklige folk inkl. samer. Kilde: Lamnidis et al. 2018, *Nature Communications* – https://www.nature.com/articles/s41467-018-07483-5
@@ -25,8 +27,9 @@ Oppstod fra en diskusjon om hvorvidt samene stammer fra inuittene (de gjør ikke
 
 Tre steg i en scrollbar tidslinje, hvert med kildehenvisning:
 1. Ut av Afrika (tidligste mennesker/neandertalere → spredning)
-2. Sápmi-sporet (samenes opphav, sibirsk innslag ~3500 år siden)
-3. Inuitt-sporet (paleo-inuitter → thule-kultur → dagens inuitter)
+2. Fra Lena til Karelen (forhistorien til det sibirske innslaget)
+3. Sápmi-sporet (samenes opphav, sibirsk innslag ~3500 år siden)
+4. Inuitt-sporet (paleo-inuitter → thule-kultur → dagens inuitter)
 
 Se GitHub-issues for nedbrutte oppgaver.
 

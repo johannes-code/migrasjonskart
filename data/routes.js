@@ -20,6 +20,27 @@ window.MIGRATION_STEPS = {
     ]
   },
   2: {
+    center: [72, 56],
+    zoom: 1.9,
+    routes: [
+      { id: 'lena-altaj', draw: [0.1, 0.35], kind: 'gene',
+        coords: [[129.7, 62], [118, 58], [104, 53], [89, 51]] },
+      { id: 'altaj-vestsibir', draw: [0.3, 0.45], kind: 'gene',
+        coords: [[89, 51], [80, 54], [73.4, 55.3]] },
+      { id: 'vestsibir-volga', draw: [0.45, 0.65], kind: 'gene',
+        coords: [[73.4, 55.3], [62, 56.5], [50, 55.5]] },
+      { id: 'volga-karelen', draw: [0.6, 0.8], kind: 'gene',
+        coords: [[50, 55.5], [42, 59], [34, 62.5]] }
+    ],
+    points: [
+      { name: 'Lena-elva (~4000 år)', at: [129.7, 62], show: 0.05 },
+      { name: 'Altaj–Sajan', at: [89, 51], show: 0.3 },
+      { name: 'Seima-Turbino (Vest-Sibir)', at: [73.4, 55.3], show: 0.42 },
+      { name: 'Midt-Volga', at: [50, 55.5], show: 0.6 },
+      { name: 'Karelen (~3500 år)', at: [34, 62.5], show: 0.78 }
+    ]
+  },
+  3: {
     center: [30, 64],
     zoom: 3.6,
     routes: [
@@ -40,7 +61,7 @@ window.MIGRATION_STEPS = {
       { name: 'Midt-Skandinavia (~500 e.Kr.)', at: [14, 64], show: 0.9 }
     ]
   },
-  3: {
+  4: {
     center: [-60, 68],
     zoom: 1.6,
     routes: [],
