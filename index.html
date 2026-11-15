@@ -16,7 +16,14 @@
   <main class="story">
     <!-- Kartet ligger fast øverst mens tekstkortene scroller forbi -->
     <div class="map" id="map" aria-hidden="true">
-      <span class="map-label" id="map-label">Kart kommer her</span>
+      <svg id="globe"></svg>
+      <span class="map-label" id="map-label">Ut av Afrika</span>
+      <span class="map-note">Rutene er skjematiske</span>
+      <ul class="legend" data-for="2">
+        <li><i class="sw sw--people"></i>Folk</li>
+        <li><i class="sw sw--gene"></i>Sibirsk innslag</li>
+        <li><i class="sw sw--language"></i>Samiske språk</li>
+      </ul>
     </div>
 
     <section class="step" data-step="1" data-label="Steg 1: Ut av Afrika">
@@ -72,6 +79,10 @@
     <p>Under arbeid.</p>
   </footer>
 
+  <script src="vendor/d3-array.min.js"></script>
+  <script src="vendor/d3-geo.min.js"></script>
+  <script src="vendor/topojson-client.min.js"></script>
+  <script src="data/routes.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

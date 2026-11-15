@@ -36,6 +36,9 @@ Statisk nettside (HTML/CSS/vanilla JS), mobilførst, hostet på GitHub Pages fra
 
 - `index.html` – én `<section class="step">` per steg i tidslinjen
 - `style.css` – kartet ligger sticky øverst på mobil, til høyre på desktop (≥900px)
-- `script.js` – IntersectionObserver markerer aktivt steg og oppdaterer kartet
+- `script.js` – IntersectionObserver markerer aktivt steg; globusen roterer dit, og rutene tegnes i takt med scrollingen
+- `data/routes.js` – kamera, ruter (skjematiske koordinater) og punkter per steg
+- `data/land-*.json` – Natural Earth via [world-atlas](https://github.com/topojson/world-atlas) (110m lastes først, 50m etterpå)
+- `vendor/` – d3-array, d3-geo, topojson-client (ISC-lisens), lagt lokalt – ingen CDN eller API-nøkler
 
 Kjør lokalt: `python3 -m http.server` i repo-mappa og åpne http://localhost:8000
