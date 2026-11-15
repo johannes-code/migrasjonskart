@@ -2,6 +2,8 @@
 
 Mobilvennlig, scrollbar visualisering av menneskets vandring – fra de tidligste menneskene/neandertalerne til i dag, med hovedfokus på urfolk (spesielt samer og inuitter).
 
+**Live:** https://johannes-code.github.io/migrasjonskart/ (under arbeid – foreløpig bare skjelett med plassholdere)
+
 ## Bakgrunn
 
 Oppstod fra en diskusjon om hvorvidt samene stammer fra inuittene (de gjør ikke – se research under). Ingen eksisterende verktøy (Bradshaw Foundation "Journey of Mankind", National Geographic "Human Journey", Cal Academy "Human Odyssey") er både mobilvennlige, scrollbare OG har urfolk-fokus med kildehenvisninger. Derfor bygges dette fra bunnen.
@@ -24,4 +26,10 @@ Se GitHub-issues for nedbrutte oppgaver.
 
 ## Teknisk
 
-Statisk nettside (HTML/CSS/vanilla JS), mobilførst, tenkt hostet gratis på GitHub Pages. Ingen backend nødvendig for MVP.
+Statisk nettside (HTML/CSS/vanilla JS), mobilførst, hostet på GitHub Pages fra `main`. Ingen backend eller byggesteg.
+
+- `index.html` – én `<section class="step">` per steg i tidslinjen
+- `style.css` – kartet ligger sticky øverst på mobil, til høyre på desktop (≥900px)
+- `script.js` – IntersectionObserver markerer aktivt steg og oppdaterer kartet
+
+Kjør lokalt: `python3 -m http.server` i repo-mappa og åpne http://localhost:8000
