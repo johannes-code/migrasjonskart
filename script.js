@@ -112,8 +112,9 @@
       if (visible) {
         const [x, y] = projection(point.at);
         node.setAttribute('transform', `translate(${x},${y})`);
-        // Etiketter nær høyre kant flyttes til venstre side av punktet
-        node.classList.toggle('point--left', x > width * 0.6);
+        // Etiketter som ikke får plass til høyre, flyttes til venstre side av punktet
+        const textW = node.querySelector('text').getComputedTextLength();
+        node.classList.toggle('point--left', x + 7 + textW > width - 6);
       }
       node.style.opacity = visible ? 1 : 0;
     });

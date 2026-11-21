@@ -49,6 +49,7 @@ body {
   stroke-linejoin: round;
   transition: opacity .3s ease;
 }
+.route--east { stroke: #2f6fb0; }
 .route--gene { stroke: #7a3fa0; }
 .route--language { stroke: #1f7a5a; }
 
@@ -77,10 +78,12 @@ body {
   border-radius: 8px;
   display: none;
 }
-.map[data-active="3"] .legend[data-for="3"] { display: block; }
+.map[data-active="2"] .legend[data-for="2"],
+.map[data-active="4"] .legend[data-for="4"] { display: block; }
 .legend li { display: flex; align-items: center; gap: .4rem; }
 .sw { display: inline-block; width: 14px; height: 3px; border-radius: 2px; }
 .sw--people { background: var(--accent); }
+.sw--east { background: #2f6fb0; }
 .sw--gene { background: #7a3fa0; }
 .sw--language { background: #1f7a5a; }
 
@@ -141,7 +144,7 @@ body {
   }
   .map {
     grid-column: 2;
-    grid-row: 1 / span 4;
+    grid-row: 1 / span 5;
     height: 100vh;
     border-bottom: 0;
     border-left: 1px solid #0a151c;

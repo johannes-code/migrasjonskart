@@ -16,7 +16,8 @@ Oppstod fra en diskusjon om hvorvidt samene stammer fra inuittene (de gjør ikke
 
 - **Fra Lena til Karelen:** det sibirske innslaget (Yakutia_LNBA) spredte seg vestover fra Lena-elva ~4000 år siden, via Altaj–Sajan og Seima-Turbino-nettverket i Vest-Sibir, og nådde Karelen ~3500 år siden. Knyttet til spredningen av uralske språk; urhjemmet er omdiskutert. Kilde: Zeng et al. 2025, *Nature* – https://www.nature.com/articles/s41586-025-09189-3
 - **Uralske språk:** rask vestover-spredning ~4200–3900 år siden, først til Midt-Volga, trolig langs Seima-Turbino. Kilde: Grünthal et al. 2022, *Diachronica* – https://doi.org/10.1075/dia.20038.gru
-- **De første skandinavene:** Skandinavia ble befolket sist i Europa etter siste istid, langs to ruter – fra sør og fra nordøst langs norskekysten. Kilde: Günther et al. 2018, *PLOS Biology* – https://doi.org/10.1371/journal.pbio.2003703
+- **De første skandinavene:** Skandinavia ble befolket sist i Europa etter siste istid, langs to ruter – fra sør og fra nordøst langs norskekysten – med genetisk blanding. Kilde: Günther et al. 2018, *PLOS Biology* – https://doi.org/10.1371/journal.pbio.2003703
+- **Sør og øst nesten samtidig:** Sør-Sverige ~11 300–10 000 f.Kr.; nordligste Norge ~9500 f.Kr.; østlig bladteknikk i Øst-Finnmark (Løkvika) 9659–8826 f.Kr.; østlig teknikk tar brått over i Sør-Norge ~8300 f.Kr. Kilde: Manninen et al. 2021, *Antiquity* – https://doi.org/10.15184/aqy.2020.252
 - **Samiske språk:** spredte seg til Lappland mellom de siste århundrene f.Kr. og ca. 500 e.Kr. (Midt-Skandinavia nådd senest 500–600 e.Kr.), og erstattet utdødde «paleo-lappiske» språk. Kilde: Aikio 2012, i *A Linguistic Map of Prehistoric Northern Europe* (SUST 266), s. 63–117 – https://web.archive.org/web/2020/https://www.sgr.fi/sust/sust266/sust266_aikio.pdf (arkivert kopi; originalen på sgr.fi er død)
 - **Samer (uralsk språk):** sibirsk genetisk innslag ankom Nord-Europa for **minst 3500 år siden**, knyttet til uralsk-språklige folk inkl. samer. Kilde: Lamnidis et al. 2018, *Nature Communications* – https://www.nature.com/articles/s41467-018-07483-5
 - **Inuitter (eskimo-aleutisk språk):** separat migrasjon fra Sibir til Nord-Amerika ca. **4000 f.Kr.** (paleo-inuitter), senere erstattet av thule-kulturen (dagens inuitters direkte forfedre) rundt **1300 e.Kr.**, som stammer fra Birnirk-kulturen i Sibir. Kilde: https://en.wikipedia.org/wiki/Paleo-Eskimo
@@ -27,9 +28,10 @@ Oppstod fra en diskusjon om hvorvidt samene stammer fra inuittene (de gjør ikke
 
 Tre steg i en scrollbar tidslinje, hvert med kildehenvisning:
 1. Ut av Afrika (tidligste mennesker/neandertalere → spredning)
-2. Fra Lena til Karelen (forhistorien til det sibirske innslaget)
-3. Sápmi-sporet (samenes opphav, sibirsk innslag ~3500 år siden)
-4. Inuitt-sporet (paleo-inuitter → thule-kultur → dagens inuitter)
+2. Etter istiden – Norge befolkes fra sør og øst
+3. Fra Lena til Karelen (forhistorien til det sibirske innslaget)
+4. Sápmi-sporet (sibirsk innslag ~3500 år siden, samiske språk)
+5. Inuitt-sporet (paleo-inuitter → thule-kultur → dagens inuitter)
 
 Se GitHub-issues for nedbrutte oppgaver.
 

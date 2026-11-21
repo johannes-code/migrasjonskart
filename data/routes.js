@@ -20,6 +20,21 @@ window.MIGRATION_STEPS = {
     ]
   },
   2: {
+    center: [20, 64],
+    zoom: 3.4,
+    routes: [
+      { id: 'skandinavia-sor', draw: [0.1, 0.45],
+        coords: [[13.5, 55.8], [12, 57.5], [10.5, 59], [6, 59], [5, 61], [7, 63], [10.5, 64]] },
+      { id: 'skandinavia-nordost', draw: [0.1, 0.55], kind: 'east',
+        coords: [[40, 64], [37, 67.5], [33, 69.4], [30, 70.2], [26, 71], [19, 70], [14, 68], [12, 66], [10.5, 64]] },
+    ],
+    points: [
+      { name: 'Sør-Sverige (>12 000 år)', at: [13.5, 55.8], show: 0.05 },
+      { name: 'Øst-Finnmark (~11 600 år)', at: [30, 70.2], show: 0.3 },
+      { name: 'Sør-Norge (~10 300 år)', at: [9, 59.3], show: 0.75 }
+    ]
+  },
+  3: {
     center: [72, 56],
     zoom: 1.9,
     routes: [
@@ -40,28 +55,23 @@ window.MIGRATION_STEPS = {
       { name: 'Karelen (~3500 år)', at: [34, 62.5], show: 0.78 }
     ]
   },
-  3: {
+  4: {
     center: [30, 64],
     zoom: 3.6,
     routes: [
-      { id: 'skandinavia-sor', draw: [0.05, 0.3],
-        coords: [[9, 54], [10, 56.5], [12, 58], [10.5, 59.8]] },
-      { id: 'skandinavia-nordost', draw: [0.05, 0.4],
-        coords: [[40, 64], [37, 67.5], [32, 69.5], [26, 71], [19, 70], [14, 68], [12, 66], [10.5, 64]] },
-      { id: 'sibir', draw: [0.35, 0.65], kind: 'gene',
-        coords: [[62, 63.5], [54, 65], [45, 67.5], [35, 69]] },
-      { id: 'samisk-nord', draw: [0.65, 0.95], kind: 'language',
+      { id: 'sibir', draw: [0.05, 0.4], kind: 'gene',
+        coords: [[34, 62.5], [33, 65.5], [35, 69]] },
+      { id: 'samisk-nord', draw: [0.45, 0.85], kind: 'language',
         coords: [[29, 61.8], [27.5, 65], [25.5, 68.5]] },
-      { id: 'samisk-vest', draw: [0.65, 0.95], kind: 'language',
+      { id: 'samisk-vest', draw: [0.45, 0.85], kind: 'language',
         coords: [[29, 61.8], [24, 63], [18.5, 63.8], [14, 64]] }
     ],
     points: [
-      { name: 'Kola (≥3500 år)', at: [35, 69], show: 0.6 },
-      { name: 'Fra Sibir', at: [62, 63.5], show: 0.35 },
-      { name: 'Midt-Skandinavia (~500 e.Kr.)', at: [14, 64], show: 0.9 }
+      { name: 'Kola (≥3500 år)', at: [35, 69], show: 0.35 },
+      { name: 'Midt-Skandinavia (~500 e.Kr.)', at: [14, 64], show: 0.8 }
     ]
   },
-  4: {
+  5: {
     center: [-60, 68],
     zoom: 1.6,
     routes: [],
