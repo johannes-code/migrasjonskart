@@ -21,6 +21,22 @@ window.MIGRATION_STEPS = {
     ]
   },
   2: {
+    center: [100, 65],
+    zoom: 1.3,
+    routes: [
+      { id: 'ane-vest', draw: [0.55, 0.8], kind: 'ane',
+        coords: [[103, 52.9], [85, 55], [65, 57], [45, 57], [25, 55]] },
+      { id: 'ane-ost', draw: [0.35, 0.6], kind: 'ane',
+        coords: [[103, 52.9], [120, 58], [145, 62], [165, 64], [-170, 66], [-155, 63]] }
+    ],
+    points: [
+      { name: 'Yana (~31 000 år)', at: [135.4, 70.7], show: 0.05 },
+      { name: "Mal'ta (~24 000 år)", at: [103, 52.9], show: 0.2 },
+      { name: 'Mot Amerika', at: [-155, 63], show: 0.55 },
+      { name: 'Mot Europa', at: [25, 55], show: 0.75 }
+    ]
+  },
+  3: {
     center: [20, 64],
     zoom: 3.4,
     routes: [
@@ -35,7 +51,7 @@ window.MIGRATION_STEPS = {
       { name: 'Sør-Norge (~10 300 år)', at: [9, 59.3], show: 0.75 }
     ]
   },
-  3: {
+  4: {
     center: [72, 56],
     zoom: 1.9,
     routes: [
@@ -56,7 +72,7 @@ window.MIGRATION_STEPS = {
       { name: 'Karelen (~3500 år)', at: [34, 62.5], show: 0.78 }
     ]
   },
-  4: {
+  5: {
     center: [30, 64],
     zoom: 3.6,
     routes: [
@@ -72,7 +88,7 @@ window.MIGRATION_STEPS = {
       { name: 'Midt-Skandinavia (~500 e.Kr.)', at: [14, 64], show: 0.8 }
     ]
   },
-  5: {
+  6: {
     center: [-112, 76],
     zoom: 2.6,
     routes: [
