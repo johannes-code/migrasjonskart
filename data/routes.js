@@ -4,8 +4,8 @@
 // Punkter vises fra `show` (og skjules igjen ved `hide`, om satt).
 window.MIGRATION_STEPS = {
   1: {
-    center: [25, 25], // [lon, lat] globusen roteres til
-    zoom: 1.35,
+    center: [48, 25], // [lon, lat] globusen roteres til
+    zoom: 1.1,
     routes: [
       { id: 'afrika-levant', draw: [0.15, 0.45], label: null,
         coords: [[38, 8], [39, 15], [34, 28], [35.5, 32.5]] },
@@ -104,6 +104,20 @@ window.MIGRATION_STEPS = {
       { name: 'Alaska (thule-kulturen)', at: [-156.8, 71.3], show: 0.45 },
       { name: 'Grønland (1200-tallet)', at: [-69, 77], show: 0.72 }
     ]
+  },
+  7: {
+    center: [-38, 66],
+    zoom: 2.3,
+    routes: [
+      { id: 'norron', draw: [0.15, 0.4], kind: 'norse',
+        coords: [[5.3, 60.4], [-6, 62], [-22, 64.1], [-35, 63], [-45.5, 61.2]] },
+      { id: 'thule-gronland', draw: [0.35, 0.6],
+        coords: [[-80, 74], [-69, 77], [-58, 73], [-53, 68], [-51.7, 64.2], [-47, 61.5]] }
+    ],
+    points: [
+      { name: 'Østerbygd (~985)', at: [-45.5, 61.2], show: 0.3, hide: 0.7 },
+      { name: 'Nordvest-Grønland (1200-tallet)', at: [-69, 77], show: 0.45 },
+      { name: 'Hvalsey (1408)', at: [-46, 60.9], show: 0.72 }
+    ]
   }
-
 };

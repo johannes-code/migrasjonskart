@@ -28,13 +28,14 @@ Oppstod fra en diskusjon om hvorvidt samene stammer fra inuittene (de gjør ikke
 
 ## Plan for minimal første skive (MVP)
 
-Seks steg i en scrollbar tidslinje, hvert med kildehenvisning:
+Sju steg i en scrollbar tidslinje, hvert med kildehenvisning:
 1. Ut av Afrika (tidligste mennesker/neandertalere → spredning)
 2. De gamle nordeurasierne (Yana, Mal'ta)
 3. Etter istiden – Norge befolkes fra sør og øst
 4. Fra Lena til Karelen (forhistorien til det sibirske innslaget)
 5. Sápmi-sporet (sibirsk innslag ~3500 år siden, samiske språk)
 6. Inuitt-sporet (paleo-inuitter → thule-kultur → dagens inuitter)
+7. Møtet på Grønland (norrøne fra øst, thule fra vest)
 
 Se GitHub-issues for nedbrutte oppgaver, og [KILDER.md](KILDER.md) for hvilken kilde som dekker hver påstand og hvor grundig den er lest.
 

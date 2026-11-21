@@ -23,6 +23,7 @@ body {
 }
 .intro h1 { margin: 0 0 .5rem; font-size: 1.75rem; }
 .intro p, .outro p { margin: 0; color: var(--muted); }
+.outro a { color: inherit; }
 
 /* Kartet: sticky øverst på mobil, kortene scroller under */
 .map {
@@ -52,6 +53,7 @@ body {
 .route--east { stroke: #2f6fb0; }
 .route--paleo { stroke: #2a8f8f; }
 .route--ane { stroke: #b08a1f; }
+.route--norse { stroke: #3d5a99; }
 .route--gene { stroke: #7a3fa0; }
 .route--language { stroke: #1f7a5a; }
 
@@ -83,13 +85,15 @@ body {
 .map[data-active="2"] .legend[data-for="2"],
 .map[data-active="3"] .legend[data-for="3"],
 .map[data-active="5"] .legend[data-for="5"],
-.map[data-active="6"] .legend[data-for="6"] { display: block; }
+.map[data-active="6"] .legend[data-for="6"],
+.map[data-active="7"] .legend[data-for="7"] { display: block; }
 .legend li { display: flex; align-items: center; gap: .4rem; }
 .sw { display: inline-block; width: 14px; height: 3px; border-radius: 2px; }
 .sw--people { background: var(--accent); }
 .sw--east { background: #2f6fb0; }
 .sw--paleo { background: #2a8f8f; }
 .sw--ane { background: #b08a1f; }
+.sw--norse { background: #3d5a99; }
 .sw--gene { background: #7a3fa0; }
 .sw--language { background: #1f7a5a; }
 
@@ -150,7 +154,7 @@ body {
   }
   .map {
     grid-column: 2;
-    grid-row: 1 / span 6;
+    grid-row: 1 / span 7;
     height: 100vh;
     border-bottom: 0;
     border-left: 1px solid #0a151c;

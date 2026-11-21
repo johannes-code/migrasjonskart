@@ -57,6 +57,19 @@ Sist gjennomgått: 2026-11-21.
 | Thule utviklet i kyst-Alaska, nådde Grønland på 1200-tallet; stammer fra Birnirk (Alaska/Tsjukotka) | Wikipedia: Thule people, Birnirk culture | Oppslagsverk |
 | Lena-befolkningen deler arv med folk ved Beringstredet | Zeng et al. 2025 | Fulltekst |
 
+## 7. Møtet på Grønland
+| Påstand | Kilde | Lest |
+|---|---|---|
+| Saqqaq ca. 2500–800 f.Kr. | Wikipedia: Saqqaq culture | Oppslagsverk |
+| Dorset hadde trukket seg ut av Grønland før de norrøne kom | Wikipedia: Norse colonization of North America | Oppslagsverk |
+| Norrøne fra Island bosatte Østerbygd/Vesterbygd ca. 985; Østerbygd ~4000 innbyggere | Wikipedia: Eastern/Western Settlement | Oppslagsverk |
+| Thule nådde Grønland på 1200-tallet | Wikipedia: Thule people | Oppslagsverk |
+| Norrøne kalte dem skrælinger; spor av handel | Wikipedia: Norse colonization of North America | Oppslagsverk |
+| Vesterbygd forlatt ~1350; bryllup i Hvalsey 1408 siste skriftlige spor | Wikipedia: Norse colonization / Hvalsey Church | Oppslagsverk |
+| Begge grener fra samme utvandring fra Afrika | Sümer et al. 2024; Bergström et al. 2021 (steg 1) | Sammendrag |
+
+**Merk:** steg 7 bygger foreløpig bare på Wikipedia. Fagfellevurderte kilder for norrøn bosetting og thule-kontakt bør legges til.
+
 ## Rettet under gjennomgangen
 - «i hundretusener av år» om neandertalerne fjernet – ingen kilde på siden dekket det.
 - 2 %-tallet hadde Prüfer-artikkelen som kilde, men står ikke i sammendraget – Max Planck-omtalen lagt til.
