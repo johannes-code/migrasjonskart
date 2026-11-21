@@ -1,6 +1,7 @@
 // Kartdata per steg. Koordinater er [lengdegrad, breddegrad].
 // Rutene er SKJEMATISKE – de viser retning og omtrentlig område, ikke eksakte stier.
 // Hver rute har [fra, til] = andel av stegets scroll der den tegnes.
+// Punkter vises fra `show` (og skjules igjen ved `hide`, om satt).
 window.MIGRATION_STEPS = {
   1: {
     center: [25, 25], // [lon, lat] globusen roteres til
@@ -72,9 +73,21 @@ window.MIGRATION_STEPS = {
     ]
   },
   5: {
-    center: [-60, 68],
-    zoom: 1.6,
-    routes: [],
-    points: []
+    center: [-112, 76],
+    zoom: 2.6,
+    routes: [
+      { id: 'paleo', draw: [0.1, 0.45], kind: 'paleo',
+        coords: [[178, 65], [-170, 66], [-160, 68], [-140, 69.5], [-120, 69], [-95, 69.5],
+                 [-82, 72], [-70, 76.5], [-58, 76], [-53, 70.5]] },
+      { id: 'thule', draw: [0.45, 0.75],
+        coords: [[-170, 66], [-156.8, 71.3], [-140, 70], [-123, 70.5], [-105, 69],
+                 [-92, 72], [-80, 74], [-69, 77]] }
+    ],
+    points: [
+      { name: 'Beringstredet (~5000 år)', at: [-170, 66], show: 0.05, hide: 0.45 },
+      { name: 'Alaska (thule-kulturen)', at: [-156.8, 71.3], show: 0.45 },
+      { name: 'Grønland (1200-tallet)', at: [-69, 77], show: 0.72 }
+    ]
   }
+
 };

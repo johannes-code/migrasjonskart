@@ -20,13 +20,14 @@ Oppstod fra en diskusjon om hvorvidt samene stammer fra inuittene (de gjør ikke
 - **Sør og øst nesten samtidig:** Sør-Sverige ~11 300–10 000 f.Kr.; nordligste Norge ~9500 f.Kr.; østlig bladteknikk i Øst-Finnmark (Løkvika) 9659–8826 f.Kr.; østlig teknikk tar brått over i Sør-Norge ~8300 f.Kr. Kilde: Manninen et al. 2021, *Antiquity* – https://doi.org/10.15184/aqy.2020.252
 - **Samiske språk:** spredte seg til Lappland mellom de siste århundrene f.Kr. og ca. 500 e.Kr. (Midt-Skandinavia nådd senest 500–600 e.Kr.), og erstattet utdødde «paleo-lappiske» språk. Kilde: Aikio 2012, i *A Linguistic Map of Prehistoric Northern Europe* (SUST 266), s. 63–117 – https://web.archive.org/web/2020/https://www.sgr.fi/sust/sust266/sust266_aikio.pdf (arkivert kopi; originalen på sgr.fi er død)
 - **Samer (uralsk språk):** sibirsk genetisk innslag ankom Nord-Europa for **minst 3500 år siden**, knyttet til uralsk-språklige folk inkl. samer. Kilde: Lamnidis et al. 2018, *Nature Communications* – https://www.nature.com/articles/s41467-018-07483-5
-- **Inuitter (eskimo-aleutisk språk):** separat migrasjon fra Sibir til Nord-Amerika ca. **4000 f.Kr.** (paleo-inuitter), senere erstattet av thule-kulturen (dagens inuitters direkte forfedre) rundt **1300 e.Kr.**, som stammer fra Birnirk-kulturen i Sibir. Kilde: https://en.wikipedia.org/wiki/Paleo-Eskimo
+- **Inuitter (eskimo-aleutisk språk):** separat migrasjon fra Sibir til Nord-Amerika for ca. **5000 år siden** (paleo-inuitter; Flegontov et al. 2019, *Nature* – https://doi.org/10.1038/s41586-019-1251-y – tidligere oppgitt som ~4000 f.Kr. fra Wikipedia), én bølge som levde nesten isolert i 4000+ år og forsvant for ~700 år siden (Raghavan et al. 2014, *Science* – https://doi.org/10.1126/science.1255832), senere erstattet av thule-kulturen (dagens inuitters direkte forfedre) rundt **1300 e.Kr.**, som stammer fra Birnirk-kulturen ved Beringstredet. Thule-vandringen østover over Canada til Grønland skjedde raskt på 1200-tallet (Friesen & Arnold 2008, *American Antiquity* – https://doi.org/10.1017/S0002731600046850). Kilde: https://en.wikipedia.org/wiki/Paleo-Eskimo
+- **Fjern forbindelse:** Lena-befolkningen (Yakutia_LNBA) bak samenes sibirske innslag deler gammel paleosibirsk arv med folk ved Beringstredet (Zeng et al. 2025) – et dypt felles opphav, ikke direkte slektskap.
 - **Forholdet mellom dem:** ikke direkte beslektet – to separate sibirske opphav på ulike tidspunkt. Det finnes en omstridt, uanerkjent lingvistisk hypotese (Bergsland 1959 / Fortescue 1998, "Uralo-sibirsk") om en svært dyp felles opprinnelse, men dette er ikke bevist. Kilde: https://en.wikipedia.org/wiki/Eskimo%E2%80%93Uralic_languages
 - Eldre "mongolsk rase"-klassifisering som lumpet samer og inuitter sammen er tilbakevist av moderne genetikk. Kilde: https://www.discovermagazine.com/saami-i-am-not-39886
 
 ## Plan for minimal første skive (MVP)
 
-Tre steg i en scrollbar tidslinje, hvert med kildehenvisning:
+Fem steg i en scrollbar tidslinje, hvert med kildehenvisning:
 1. Ut av Afrika (tidligste mennesker/neandertalere → spredning)
 2. Etter istiden – Norge befolkes fra sør og øst
 3. Fra Lena til Karelen (forhistorien til det sibirske innslaget)

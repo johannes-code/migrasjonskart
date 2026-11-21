@@ -50,6 +50,7 @@ body {
   transition: opacity .3s ease;
 }
 .route--east { stroke: #2f6fb0; }
+.route--paleo { stroke: #2a8f8f; }
 .route--gene { stroke: #7a3fa0; }
 .route--language { stroke: #1f7a5a; }
 
@@ -79,11 +80,13 @@ body {
   display: none;
 }
 .map[data-active="2"] .legend[data-for="2"],
-.map[data-active="4"] .legend[data-for="4"] { display: block; }
+.map[data-active="4"] .legend[data-for="4"],
+.map[data-active="5"] .legend[data-for="5"] { display: block; }
 .legend li { display: flex; align-items: center; gap: .4rem; }
 .sw { display: inline-block; width: 14px; height: 3px; border-radius: 2px; }
 .sw--people { background: var(--accent); }
 .sw--east { background: #2f6fb0; }
+.sw--paleo { background: #2a8f8f; }
 .sw--gene { background: #7a3fa0; }
 .sw--language { background: #1f7a5a; }
 

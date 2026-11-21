@@ -108,6 +108,7 @@
 
     pointNodes.forEach(({ step, point, node }) => {
       const visible = step === current && progress >= point.show &&
+        (point.hide == null || progress < point.hide) &&
         d3.geoDistance(point.at, center) < Math.PI / 2 - 0.05;
       if (visible) {
         const [x, y] = projection(point.at);
