@@ -15,6 +15,7 @@ Sist gjennomgått: 2026-11-21.
 | Eldste *H. sapiens*-fossiler, Jebel Irhoud, ~300 000 år | Hublin et al. 2017, *Nature* | Sammendrag |
 | Spredning ut av Afrika for 60 000–40 000 år siden | Bergström et al. 2021, *Nature* | Sammendrag |
 | Én felles neandertaler-blanding for alle utenfor Afrika, ~45 000–49 000 år siden | Sümer et al. 2024, *Nature* | Sammendrag |
+| Et av de eldste genomene av et moderne menneske, ~45 000 år, Ust'-Ishim i Vest-Sibir | Fu et al. 2014, *Nature* | Sammendrag |
 | 1,8–2,6 % neandertaler-DNA utenfor Afrika | Prüfer et al. 2017, *Science* + Max Planck-omtale | Omtale |
 | Neandertalerne forsvant ~41 000–39 000 år siden | Higham et al. 2014, *Nature* | Sammendrag |
 

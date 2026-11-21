@@ -12,12 +12,15 @@ window.MIGRATION_STEPS = {
       { id: 'levant-europa', draw: [0.45, 0.75], label: null,
         coords: [[35.5, 32.5], [30, 39], [24, 42], [17, 47], [12.5, 50.3]] },
       { id: 'levant-asia', draw: [0.45, 0.8], label: null,
-        coords: [[35.5, 32.5], [48, 30], [60, 26], [78, 22], [92, 24], [105, 25]] }
+        coords: [[35.5, 32.5], [48, 30], [60, 26], [78, 22], [92, 24], [105, 25]] },
+      { id: 'asia-sibir', draw: [0.6, 0.85], label: null,
+        coords: [[48, 30], [56, 38], [63, 46], [68, 52], [71.2, 57.7]] }
     ],
     points: [
       { name: 'Jebel Irhoud (~300 000 år)', at: [-8.87, 31.85], show: 0 },
       { name: 'Øst-Afrika', at: [38, 8], show: 0.1 },
-      { name: 'Ranis / Zlatý kůň (~45 000 år)', at: [12.5, 50.3], show: 0.7 }
+      { name: 'Ranis / Zlatý kůň (~45 000 år)', at: [12.5, 50.3], show: 0.7 },
+      { name: "Ust'-Ishim (~45 000 år)", at: [71.2, 57.7], show: 0.82 }
     ]
   },
   2: {
